@@ -1,2 +1,2 @@
 
-## In this repo we understand the manchine learning
+## Machine Learning algorithms
